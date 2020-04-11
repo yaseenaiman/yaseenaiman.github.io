@@ -14,7 +14,7 @@ Visit me here
 
 you can download and run them :).
 
-## Here is my articles and projects on my blog
+## Here is my articles on my blog
 
 [Yaseen Mohammed](https://yaseenaimanmohammed.wordpress.com/posts/)
 
